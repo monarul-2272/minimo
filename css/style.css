@@ -130,7 +130,7 @@ header{
     margin-bottom: 70px;
 }
 .s_form{
-    width: 400px;
+    width: 350px;
     position: relative;
     margin: 0 auto;
 }
@@ -138,7 +138,7 @@ header{
     font-family: 'Playfair Display', serif;
     font-size: 14px;
     color: #626262;
-    width: 345px;
+    width: 284px;
     height: 45px;
     border: none;
     border-bottom: 1px solid #000000;
